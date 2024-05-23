@@ -1,0 +1,13 @@
+table, th, td{
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+th{
+    background-color: rgb(143, 233, 40);
+}
+
+
+td{
+    background-color: brown;
+}
